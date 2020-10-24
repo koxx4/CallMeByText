@@ -1,5 +1,5 @@
 ﻿/*
-Piotr Wilk 25***6
+Piotr W. 25***6
 Informatyka Techniczna
 Rok 1. Sem I.
 Grupa ŚR TP 10:15
