@@ -2,8 +2,6 @@
 #define FUNKCJE_H
 
 #include <string>
-#include "Urodziny.h"
-
 
 bool    WypiszPrzywtianie(std::string* wywolanie);
 bool    WypiszTwojWiek(std::string* wywolanie);
