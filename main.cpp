@@ -1,8 +1,8 @@
 ﻿/*
-Piotr W. 25***6
+Piotr W.
 Informatyka Techniczna
 Rok 1. Sem I.
-Grupa ŚR TP 10:15
+Grupa ŚR TP
 */
 
 
